@@ -1,4 +1,4 @@
-# SSR/SS/V2Ray
+# 梅林固件安装
 1.首先在koolshare论坛下载最新的梅林固件<br>
   https://firmware.koolshare.cn/<br><br>
 2.将下载好的梅林固件刷入到路由器，刷入教程网上有很简单
