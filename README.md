@@ -1,10 +1,12 @@
 # 梅林固件的科学上网插件安装
 1.首先在koolshare论坛下载最新的梅林固件<br>
-  https://www.koolcenter.com/posts/36<br><br>
+  https://www.koolcenter.com/category/merlin<br><br>
 2.将下载好的梅林固件刷入到路由器，刷入教程网上有很简单
-  （要附有挂载虚拟内存的教程，准备个2G的U盘）<br><br>
+  可以参考：https://www.koolcenter.com/posts/36 <br><br>
 3.刷好固件后会在最下方多出个【软件中心】，点击进入，将软件中心更新到最新版本，<br>
-  然后点击【未安装】的tab标签，找到【科学上网】插件，点击安装。<br>
+  https://github.com/hq450/fancyss_history_package
+  在↑项目下找到对应路由器的离线安装包，下载到本地<br>
+  然后点击【手动安装】的tab标签，找到【选择文件】-找到刚刚下载的离线安装包，点击上传并安装。<br>
   等待安装完成会在【已安装】tab标签内显示，图标是熟悉的小飞机。<br>
   点击小飞机图标进入插件配置界面，插件简介如下：<br>
   (本插件是支持SS、SSR、KoolGame、V2Ray四种客户端的科学上网、游戏加速工具。)
