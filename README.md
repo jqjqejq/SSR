@@ -1,6 +1,6 @@
 # 梅林固件的科学上网插件安装
 1.首先在koolshare论坛下载最新的梅林固件<br>
-  https://firmware.koolshare.cn/<br><br>
+  https://www.koolcenter.com/posts/36<br><br>
 2.将下载好的梅林固件刷入到路由器，刷入教程网上有很简单
   （要附有挂载虚拟内存的教程，准备个2G的U盘）<br><br>
 3.刷好固件后会在最下方多出个【软件中心】，点击进入，将软件中心更新到最新版本，<br>
