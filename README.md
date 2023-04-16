@@ -49,8 +49,8 @@
 
 # 免费机场
 1.附上几个免费机场：<br><br>
-  【速鹰666】-注册即可获取流量使用。（记得每日签到获取更多流量）<br>
-  https://suying666.net/auth/register?code=vJaa<br><br>
+  【桔子云】老牌机场。（记得每日签到获取更多流量）<br>
+  https://juzi69.com/auth/register?code=8aN6<br><br>
 
 免费机场<br><br>
 https://raw.githubusercontent.com/ssrsub/ssr/master/ssrsub<br><br>
